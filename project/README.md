@@ -14,8 +14,11 @@ When you live in Germany and want to explore your neighborhoods or you would lik
 ### target audience
 The people who live in germany and want to explore the neighborhood or move to another neighborhood(postal code)
 
-### Case Study
-As I am study at RWTH Aachen of Germany, I would like to find my desired community in Aachen. As a Chinese Student, my selected filter would be "near to the Chinese restaurant", "near to the public transport", "Not crowded", "near to the library." etc.
+### Case Study I
+As I am study at RWTH Aachen of Germany, I would like to find my desired community in Aachen. As a Student, my selected keywords would be 'Supermarket', 'Restaurant', 'Café', 'Bus' etc.
+
+### Case Study II
+My girlfriend and I lived in Köln an we love this city. So we would like to know if we move back to Köln in the future, where is our desired community. Our selected keywords would be 'Movie', 'Supermarket', 'Restaurant', 'Pharmacy', etc.
 
 
 ## Data
