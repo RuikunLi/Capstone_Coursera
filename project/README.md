@@ -36,3 +36,8 @@ As I am study at RWTH Aachen of Germany, I would like to find my desired communi
 - Use foursquare and geopy data to map the location of subway metro stations , separately and on top of the above clustered map in order to be able to identify the venues and ammenities near each metro station, or explore each subway location separately
 - Use Foursquare and geopy data to map the location of rental places, in some form, linked to the subway locations.
 - Addresses from locations will be converted to geodata( lat, long) using Geopy-distance and Nominatim.
+
+## Result and Discussion <a name="results"></a>
+
+- [Desired Community in Aachen](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Aachen_desired_community.html)
+- [Desired Community in Köln](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/K%C3%B6ln_desired_community.html)
