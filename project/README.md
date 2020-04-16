@@ -66,14 +66,20 @@ And two subfunction for the `ind_desired_community_germany`.
 ### There are three case studies with different cities and different venues. 
 ### Case Study I
 As I am study at RWTH Aachen of Germany, I would like to find my desired community in Aachen. As a Student, my selected keywords would be 'Supermarket', 'Restaurant', 'Café', 'Bus' etc.
-- [Desired Community in Aachen](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Aachen_desired_community.html)
+![Aachen](https://github.com/RuikunLi/Capstone_Coursera/blob/master/project/figs/Aachen.png)
+
+- [Show Desired Community in Aachen](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Aachen_desired_community.html)
 ### Case Study II
 My girlfriend and I lived in Köln an we love this city. So we would like to know if we move back to Köln in the future, where is our desired community. Our selected keywords would be 'Movie', 'Supermarket', 'Restaurant', 'Pharmacy', etc.
-- [Desired Community in Köln](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/K%C3%B6ln_desired_community.html)
+![Koeln](https://github.com/RuikunLi/Capstone_Coursera/blob/master/project/figs/Koeln.png)
+
+- [Show Desired Community in Köln](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/K%C3%B6ln_desired_community.html)
 
 ### Case Study III
 I lived in Duisburg for a while and a friend of mine would like to move to Duisburg. He study very hard therefore he want to find the community which may contain college facilities.The selected keywords would be 'Supermarket', 'College', 'Café', 'Zoo', etc.
-- [Desired Community in Duisburg](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Duisburg_desired_community.html)
+![Duisburg](https://github.com/RuikunLi/Capstone_Coursera/blob/master/project/figs/Duisburg.png)
+
+- [Show Desired Community in Duisburg](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Duisburg_desired_community.html)
 
 ## Conclusion <a name="conclusion"></a>
 
