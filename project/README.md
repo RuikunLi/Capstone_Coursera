@@ -39,14 +39,16 @@ The people who live in germany and want to explore the neighborhood or move to a
 There is one main method **find_desired_community_germany** to find desired community in the selected city with selected keyword venues.
 ```python
 find_desired_community_germany(city, foursquare_credential, keywordlist,limit=100, radius=500)
-    @Param:,
+ 
+    @Param
                 city, city name;
                 foursquare_credential, list like, [CLIENT_ID,CLIENT_SECRET];
                 keywordlist, list like, include the keyworde of interested venues, such as Supermarket, Bus Stop;
                 limit, int, limit of foursquare searched venues of a point;
                 radius, in meters.
-    @Return:
+    @Return
         a folium map of desired community. 
+   
 ```
 And two subfunction for the `ind_desired_community_germany`.
 - `getNearbyVenues(names, latitudes, longitudes, LIMIT=100, radius=500)` to get the nearby venues.
@@ -63,4 +65,4 @@ My girlfriend and I lived in Köln an we love this city. So we would like to kno
 
 ### Case Study III
 I lived in Duisburg for a while and a friend of mine would like to move to Duisburg. He study very hard therefore he want to find the community which may contain college facilities.The selected keywords would be 'Supermarket', 'College', 'Café', 'Zoo', etc.
-- [Desired Community in Duisburg](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/duisburg_desired_community.html)
+- [Desired Community in Duisburg](https://nbviewer.jupyter.org/github/RuikunLi/Capstone_Coursera/blob/master/project/results/Duisburg_desired_community.html)
